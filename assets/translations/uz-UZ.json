@@ -1,0 +1,16 @@
+{
+  "every_day": "Har kuni",
+  "change_language": "Tilni o'zgartirish",
+  "storage": "Saqlash",
+  "cancel": "Bekor qilish",
+  "perform": "Bajarish",
+  "do_you_want_to_delete": "O'chirishni xohlaysizmi?",
+  "deleted": "O'chirilsin",
+  "monday": "Dushanba",
+  "tuesday": "Seyshanba",
+  "wednesday": "Charshanba",
+  "thursday": "Payshanba",
+  "friday": "Juma",
+  "saturday": "Shanba",
+  "sunday": "Yakshanba"
+}
